@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e7b2daa5676992e40ae5b4f2c24ae8c6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Scarlet
+  fontNames:
+  - Scarlet
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 675d96202f626f2429ab2b1a53a49d2a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
